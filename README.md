@@ -25,7 +25,7 @@ PhishRecon is a Python-based cybersecurity tool that uses machine learning and w
 Clone the repository and enter the project directory:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/amrithbabu/PHISHRECON.git
 cd phishrecon
 ```
 
