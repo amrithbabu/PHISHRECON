@@ -1,0 +1,4 @@
+google.com
+github.com
+testphp.vulnweb.com
+ http://secure-login@192.168.1.1
